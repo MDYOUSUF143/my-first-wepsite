@@ -1,0 +1,26 @@
+  h1{
+      color:azure;
+      background-color: chocolate;
+    
+  }
+  #murgi{
+      width: 50%;
+      border: 1px solid royalblue;
+      margin-left: 30px;
+      padding: 30px;
+  }
+  .friend{
+      height: 50px;
+  }
+
+
+.blog{
+    border: 1px solid green;
+    width: 250px;
+    height: 180px;
+    margin: 20px;
+    padding: 20px;
+    display: inline;
+   
+}
+}
